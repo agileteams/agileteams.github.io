@@ -7,9 +7,11 @@
 
 Repository | Contents | Implementation
 ---------- | -------- | --------------
-learning | machine learning projects | mostly Python, a little MATLAB
-wordclouds | technical resume wordcloud package and UIs for interacting with it | Python, PySimpleGUI
-weather | tools for preprocessing and analyzing weather data | C#, being rewritten in Python
-KPI-ML | Key Performance Indicator Markup Language | MESA volunteer activity, in Java
-
+data science | Coursera machine learning exercises | (2014) Python
+HOML | Hands-On Machine Learning projects | (202x) Python
+KPI-ML | Key Performance Indicator Markup Language (MESA volunteer activity) | (2016-2017) Java 
+learning | Machine learning projects (Python certificate, EDA) | (202x) Mostly Python, a little MATLAB
+PORT | Prioritization Of Requirements for Test (CSC712 project) | (2004-2005) Java 
+weather | Tools for preprocessing and analyzing weather data | (2009, updated in 2017-2018) C# _(to be rewritten in Python, for fun)_
+wordclouds | Technical resume wordcloud package and UIs for interacting with it | (2018-present) Python, PySimpleGUI
 
