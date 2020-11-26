@@ -7,7 +7,7 @@
 
 Project | Contents | Implementation
 ------- | -------- | --------------
-KPI-ML | Key Performance Indicator Markup Language ([MESA](https://github.com/MESAInternational) volunteer activity) | (2016-2017) Java 
+KPI-ML | Key Performance Indicator Markup Language ([MESA](https://github.com/MESAInternational) volunteer activity) | (2016-2017) XML + private Java support package
 PORT | Prioritization Of Requirements for Test ([NCSU CSC712](https://projects.ncsu.edu/grad/about-grad/board/CSC712_Course_Action_Form1.pdf) and CSC830 project) | (2004-2005) Java 
 weather | Tools for preprocessing and analyzing weather data | (2009, updated in 2017-2018) C# _(being rewritten in Python, for fun)_
 wordclouds | Technical resume wordcloud package and UIs for interacting with it. Builds upon [Andreas Mueller's word_cloud package](http://amueller.github.io/word_cloud/). | (2018-present) Python, PySimpleGUI
