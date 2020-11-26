@@ -13,7 +13,7 @@ weather | Tools for preprocessing and analyzing weather data | (2009, updated in
 wordclouds | Technical resume wordcloud package and UIs for interacting with it | (2018-present) Python, PySimpleGUI
  | | 
 **Course** | **Contents** | **Implementation**
-data science | Exercises from [Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox) | (2014) Python
+data&nbsp;science | Exercises from [Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox) | (2014) Python
 HOML | Hands-On Machine Learning projects | (202x) Python
 learning | Machine learning course exercises ([IBM certificate in Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai), EDA) | (2019-202x) Mostly Python, a little MATLAB
 
