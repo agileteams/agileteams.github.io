@@ -17,4 +17,4 @@ data&nbsp;science | Exercises from [Data Scientist's Toolbox](https://www.course
 HOML | [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) projects (private Kaggle competition) | (202x) Python
 learning | Machine learning course exercises ([IBM certificate in Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai), [EDA with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab)) | (2019-202x) Python + a little MATLAB
 
-Page/site owner: [Karen :smiley:](https://karen.agileteams.com) 
+Page/site owner: [Karen](https://karen.agileteams.com) :smiley:
