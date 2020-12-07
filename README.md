@@ -15,6 +15,6 @@ wordclouds | Technical resume wordcloud package and UIs for interacting with it.
 **Course** | **Contents** | **Implementation**
 data&nbsp;science | Exercises from [Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox) | (2014) R
 HOML | [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) projects (private Kaggle competition) | (202x) Python
-learning | Machine learning course exercises ([IBM certificate in Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai), [EDA with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab)) | (2019-202x) Python + a little MATLAB
+learning | Machine learning course exercises ([IBM certificate in Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai), [EDA with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab), [Text Analytics and Predictions](https://www.linkedin.com/learning/text-analytics-and-predictions-with-python-essential-training)) | (2019-202x) Python + a little MATLAB
 
 Page/site owner: [Karen Smiley](https://karen.agileteams.com)
